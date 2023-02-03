@@ -1,5 +1,11 @@
 # 2022gsc_Naoya-Uematsu
-古橋ゼミ公式LINEbot！
+2022年度 ゼミ論
+青山学院大学 地球社会共生学部 地球社会共生学科
+植松尚哉/Naoya Uematsu
+学生番号 1A120023
+指導教員 古橋大地 教授
+© Furuhashi LaboratoryNaoya Uematsu, CC BY 4.0
+
 ## Abustract
 本研究は古橋ゼミ公式のLINEbotを作成し、ゼミ生、古橋ゼミに興味を持ってくれれいる人に向けた快適な情報取得サービスの役割を提供することが目的です。
 
