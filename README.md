@@ -49,8 +49,7 @@ VF画像保存用bot
 古橋bot
 ![D2F7761C-4703-4877-A251-A70AE4503EC0](https://user-images.githubusercontent.com/93098277/216643792-85664587-e0f7-4031-837d-a77a74d32733.jpeg)
 
-
- VF画像保存用bot
+VF画像保存用bot
  ![0E7E8F5B-6FCA-4209-AACB-E6CFC674BDBE](https://user-images.githubusercontent.com/93098277/216643929-7254a516-0d15-4c63-afb0-085c26e5f595.jpeg)
 
 
@@ -68,3 +67,16 @@ VF画像保存用bot
 2つのbot機能を合わせ持ったようなbot開発
 の四点を考えている。
 
+## 謝辞
+
+## 参考文献・資料リスト
+
+## プロジェクト管理
+
+https://github.com/furuhashilab/2022gsc_Naoya-Uematsu
+
+メディウム
+
+https://medium.com/furuhashilab/古橋ゼミ公式-line-bot-df092748baed
+
+グラレコ
