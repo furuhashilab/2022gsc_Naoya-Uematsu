@@ -73,6 +73,8 @@ VF画像保存用bot
 
 ## 参考文献・資料リスト
 
+https://docs.google.com/spreadsheets/d/1-KPeyyQF3KV4s_NmFaP3G623imfeXKokKHbaBMsOPKA/edit
+
 ## プロジェクト管理
 
 https://github.com/furuhashilab/2022gsc_Naoya-Uematsu
