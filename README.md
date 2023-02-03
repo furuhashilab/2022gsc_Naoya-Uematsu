@@ -69,11 +69,17 @@ VF画像保存用bot
 
 ## 謝辞
 
+本研究を進めるにあたり青山学院大学の古橋大地教授をはじめ多くの方々より多大な助言を賜 りました。厚く感謝を申し上げます。
+
 ## 参考文献・資料リスト
 
 ## プロジェクト管理
 
 https://github.com/furuhashilab/2022gsc_Naoya-Uematsu
+
+スライド
+
+https://docs.google.com/presentation/d/16d25H2Ie1DfdPf2te9U6-lS32ol4df8z9oNSaBb_t0s/edit
 
 メディウム
 
